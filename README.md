@@ -1,16 +1,10 @@
-# FIFA_visual
-A data visualization of football players' value regionally or globally
+# A data dashboard about Premier League players
 
-## set up SSH key
+## Player's values 
+  * the basemap can refer to New York flight data app 
+  * player value can refer to FIFA19(game) dataset on kaggle
+  * some other legit websites can be reviewed 
 
-## second test
-
-## third test
-
-## fourth try
-
-## fifth try
-
-## sixth try
-
-## seventh try
+### to-do-list
+  * []
+  * []
